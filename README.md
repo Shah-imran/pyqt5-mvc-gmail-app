@@ -1,1 +1,2 @@
-# pyqt5-mvc-gmail-app
+# gmail_app
+Email Client for mass mailing campaign

@@ -1,0 +1,75 @@
+#frameless_screen_header_frame
+{
+    background-color:white;
+}
+#frameless_screen_content_frame
+{
+    background-color:#eff2f8;
+}
+#frameless_screen_hide_btn , #frameless_screen_close_btn
+{
+    border:none;
+}
+QTextBrowser
+{
+  text-color: #000000;
+}
+QProgressBar
+{
+  background-color: white;
+  border:none;
+  border-radius:5px;
+}
+QProgressBar::chunk
+{
+  background-color: #2275FB;
+  border-radius:5px;
+}
+
+
+
+FramelessScreen QPushButton
+{
+   border:1px solid gray;
+   border-radius:10px;
+   color:black;
+   font: 20pt "Montserrat light";
+   background-color: rgba(255, 255, 255, 200);
+   width:250px;
+   height:50px
+}
+FramelessScreen QPushButton:hover
+{
+   border:2px solid gray;
+   background-color: rgba(255, 255, 255, 255);
+}
+#back
+{
+   border: None;
+   border-radius: None;
+   background-color: None;
+   color:black;
+   font: 20pt "Montserrat light";
+}
+FramelessScreen QLabel
+{
+   font: 16pt "Montserrat light";
+}
+FramelessScreen QLineEdit
+{
+   font: 16pt "Montserrat light";
+}
+/************************* first screen *************************/
+#checking_updates_lbl
+{
+   color:lightdark;
+   font: 9pt "Montserrat light";
+}
+/************************* login screen *************************/
+#notification_message_lbl
+{
+   color: rgb(0, 0, 207);
+   font: 14pt "Raleway";
+   font-weight:300;
+}
+

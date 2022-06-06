@@ -1,0 +1,54 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/software logo.png</file>
+    <file>icons/eye_inactive.png</file>
+    <file>icons/forward selected.png</file>
+    <file>icons/file-image 2.svg.png</file>
+    <file>icons/icons8-downward-arrow-50.png</file>
+    <file>icons/eye-1.svg 2.png</file>
+    <file>icons/mail icon_1.png</file>
+    <file>icons/mail icon.png</file>
+    <file>icons/-_sign.png</file>
+    <file>icons/+_sign.png</file>
+    <file>icons/paperclip.svg.png</file>
+    <file>icons/-.png</file>
+    <file>icons/+.png</file>
+    <file>icons/tl-redo.svg.png</file>
+    <file>icons/trash.svg.png</file>
+    <file>icons/main_logo.png</file>
+    <file>icons/monster-oldalra.png</file>
+    <file>icons/icons8-eye-30.png</file>
+    <file>icons/icons8-hide-50.png</file>
+    <file>icons/close.png</file>
+    <file>icons/hide.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>fonts/montserrat/MontserratAlternates-SemiBold.otf</file>
+    <file>fonts/montserrat/MontserratAlternates-Regular.otf</file>
+    <file>fonts/montserrat/MontserratAlternates-Medium.otf</file>
+    <file>fonts/montserrat/MontserratAlternates-Light.otf</file>
+    <file>fonts/montserrat/Montserrat-Thin.otf</file>
+    <file>fonts/montserrat/Montserrat-Regular.otf</file>
+    <file>fonts/montserrat/Montserrat-Medium.otf</file>
+    <file>fonts/montserrat/Montserrat-Light.otf</file>
+    <file>fonts/montserrat/Montserrat-Bold.otf</file>
+    <file>fonts/raleway/Raleway-ThinItalic.ttf</file>
+    <file>fonts/raleway/Raleway-Thin.ttf</file>
+    <file>fonts/raleway/Raleway-SemiBoldItalic.ttf</file>
+    <file>fonts/raleway/Raleway-SemiBold.ttf</file>
+    <file>fonts/raleway/Raleway-Regular.ttf</file>
+    <file>fonts/raleway/Raleway-MediumItalic.ttf</file>
+    <file>fonts/raleway/Raleway-Medium.ttf</file>
+    <file>fonts/raleway/Raleway-LightItalic.ttf</file>
+    <file>fonts/raleway/Raleway-Light.ttf</file>
+    <file>fonts/raleway/Raleway-Italic.ttf</file>
+    <file>fonts/raleway/Raleway-ExtraLightItalic.ttf</file>
+    <file>fonts/raleway/Raleway-ExtraLight.ttf</file>
+    <file>fonts/raleway/Raleway-ExtraBoldItalic.ttf</file>
+    <file>fonts/raleway/Raleway-ExtraBold.ttf</file>
+    <file>fonts/raleway/Raleway-BoldItalic.ttf</file>
+    <file>fonts/raleway/Raleway-Bold.ttf</file>
+    <file>fonts/raleway/Raleway-BlackItalic.ttf</file>
+    <file>fonts/raleway/Raleway-Black.ttf</file>
+  </qresource>
+</RCC>
